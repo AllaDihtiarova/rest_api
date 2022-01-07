@@ -1,0 +1,24 @@
+{
+  "name": "rest_api",
+  "version": "1.0.0",
+  "description": "rest_api",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "husky": "^7.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllaDihtiarova/rest_api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AllaDihtiarova/rest_api/issues"
+  },
+  "homepage": "https://github.com/AllaDihtiarova/rest_api#readme"
+}
